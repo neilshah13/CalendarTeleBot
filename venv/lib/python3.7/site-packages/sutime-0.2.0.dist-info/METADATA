@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: sutime
+Version: 0.2.0
+Summary: A Python wrapper for Stanford CoreNLP's SUTime
+Home-page: https://github.com/FraBle/python-sutime
+Author: Frank Blechschmidt
+Author-email: frank.blechschmidt@sap.com
+License: GPLv3+
+Keywords: stanford corenlp sutime datetime parser parsing nlp
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Requires-Dist: JPype1
+
+UNKNOWN
+
+
