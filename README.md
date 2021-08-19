@@ -9,3 +9,6 @@ The bot uses NLP to parse the user's message and then create an event in their G
 To run this locally add your telegram bot token in telebot.py
 
 A demo of this can be seen as below --
+
+https://user-images.githubusercontent.com/50938891/130025305-f28073ae-e45e-4ab9-8c35-8b3514c3fe6a.mp4
+
